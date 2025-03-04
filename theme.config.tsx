@@ -5,11 +5,11 @@ const config: DocsThemeConfig = {
   logo: (
     <span>
       <img 
-        src="/nextai.png" 
-        alt="NextAI Logo" 
+        src="/openai.png" 
+        alt="ChatGPT Share" 
         style={{ display: 'inline', height: '30px', marginRight: '10px', verticalAlign: 'middle' }} 
       />
-      <strong>NextAI API 使用说明</strong>
+      <strong>ChatGPT Share 用户使用手册</strong>
     </span>
   ),
   /*
@@ -20,8 +20,9 @@ const config: DocsThemeConfig = {
     link: 'https://nextai.date/#connect-section',
   },
   */
-  docsRepositoryBase: 'https://nextai.date/#connect-section',
+  //docsRepositoryBase: 'https://nextai.date/#connect-section',
 
+  /*
   footer: {
     text: (
       <span>
@@ -36,12 +37,14 @@ const config: DocsThemeConfig = {
       </span>
     ),
   },
+  */
+
   head: (
     <>
-      <link rel="icon" href="/nextai.png" type="image/png" />
+      <link rel="icon" href="/openai.png" type="image/png" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="NextAI API 使用说明" />
-      <title>NextAI API 使用说明</title>
+      <meta property="og:title" content="ChatGPT Share 用户使用手册" />
+      <title>ChatGPT Share 用户使用手册</title>
     </>
   ),
   

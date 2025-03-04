@@ -1,5 +1,6 @@
 {
-  "index": "服务介绍",
+  "index": "服务介绍"
+  /*
   "another": "使用教程",
   "advanced": "模型计价",
   "question": "常见问题",
@@ -17,4 +18,5 @@
     "href": "https://nextai.date/#connect-section",
     "newWindow": true
   }
+  */
 }

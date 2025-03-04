@@ -42,8 +42,8 @@ const config: DocsThemeConfig = {
     text: null,  // 或者完全删除这个配置
   },
 
-  feedback: false,  // 禁用右侧的反馈
-  editLink: false,  // 禁用右侧的编辑页面链接
+  feedback: {},  // 禁用反馈，传递一个空对象
+  editLink: {},   // 禁用编辑页面链接，传递一个空对象
 
 
   head: (

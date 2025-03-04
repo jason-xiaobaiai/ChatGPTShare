@@ -38,6 +38,13 @@ const config: DocsThemeConfig = {
     ),
   },
   */
+  footer: {
+    text: null,  // 或者完全删除这个配置
+  },
+
+  feedback: false,  // 禁用右侧的反馈
+  editLink: false,  // 禁用右侧的编辑页面链接
+
 
   head: (
     <>

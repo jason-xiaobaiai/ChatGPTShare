@@ -1,0 +1,20 @@
+{
+  "index": "服务介绍",
+  "another": "使用教程",
+  "advanced": "模型计价",
+  "question": "常见问题",
+  "share": "代理计划",
+  "about": "关于我们",
+  "console": {
+    "title": "NextAI API 聚合平台 ↗",
+    "type": "page",
+    "href": "https://api.nextai.win",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "联系我们 ↗",
+    "type": "page",
+    "href": "https://nextai.date/#connect-section",
+    "newWindow": true
+  }
+}
